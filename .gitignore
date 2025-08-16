@@ -1,0 +1,21 @@
+# Compilados de Java
+*.class
+
+# Paquetes
+*.jar
+*.war
+*.ear
+
+# Archivos generados por NetBeans
+nbproject/private/
+build/
+dist/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de IDE (por si usás otros editores)
+.vscode/
+.idea/
+*.iml
